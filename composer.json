@@ -1,8 +1,8 @@
 {
-  "name": "noFlash/waffer",
+  "name": "noflash/waffer",
   "description": "It holds every bit of your configuration ...and a maple syrup!",
   "keywords": ["configuration","config","settings","psr-4"],
-  "homepage": "http://github.com/kiler129/waffer",
+  "homepage": "https://github.com/kiler129/waffer",
   "type": "library",
   "license": "MIT",
   "authors": [
