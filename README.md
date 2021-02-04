@@ -1,3 +1,9 @@
+# PROJECT ARCHIVED
+
+Code is left for historical reasons. If you want something good and modern use [Symfony Config](https://symfony.com/doc/current/components/config.html).
+
+---
+
 # Waffer
 A tiny, fast and (if you want) powerful configuration library. It was wrote in intetion of usage with long running PHP daemons. It supports JSON & serializations configuration files out-of-box.
 
